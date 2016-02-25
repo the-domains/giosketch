@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GIOSKETCH]]></title>
         <description><![CDATA[GIOSKETCH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/giosketch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:33:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 17:43:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/giosketch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"The Coloring Book For The Soul" is almost done.</p>]]></description>
-            <link>undefined6b090fcf-bdc4-47a5-999b-a5930d43e5bd/index.html</link>
+            <link>https://thegrid.ai/giosketch/6b090fcf-bdc4-47a5-999b-a5930d43e5bd/index.html</link>
             <guid isPermaLink="false">6b090fcf-bdc4-47a5-999b-a5930d43e5bd</guid>
-            <pubDate>Thu, 25 Feb 2016 17:32:59 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 17:43:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
