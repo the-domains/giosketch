@@ -21,8 +21,8 @@ color:
     - '#bababa'
     - '#000000'
     - '#d54231'
-  brandStrength: 0.04500785144045949
+  brandStrength: 0.1875
   lightness: 0.27430800162255764
-  saturation: 0.42894017579965293
-  rhythmicContrast: 0.0938059720210731
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
